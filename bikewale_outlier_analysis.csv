@@ -1,0 +1,6 @@
+Feature,Lower_Bound,Upper_Bound,Outlier_Count
+Price_INR,-124860.0,450916.0,6
+Engine_CC,-211.75,685.45,6
+Mileage_KMPL,-6.94,97.57,0
+Power_BHP,-19.01,59.01,4
+Weight_KG,21.25,275.25,0
